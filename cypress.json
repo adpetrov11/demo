@@ -1,8 +1,7 @@
 {
-  "baseUrl": "",
-  "reporter": "mochawesome",
   "retries": {
-    "openMode": 3
+    "openMode": 3,
+    "runMode": 3
   },
   "env": {
     "foo": "bar"
