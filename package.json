@@ -1,0 +1,27 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:record": "cypress run --record --key 3a5a614d-3087-4c20-ad92-d2cc682b75d1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andim0n/demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andim0n/demo/issues"
+  },
+  "homepage": "https://github.com/andim0n/demo#readme",
+  "dependencies": {
+    "cypress": "^8.7.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
