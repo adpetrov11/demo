@@ -1,0 +1,13 @@
+{
+  "baseUrl": "",
+  "reporter": "mochawesome",
+  "retries": {
+    "openMode": 3
+  },
+  "env": {
+    "foo": "bar"
+  },
+  "viewportHeight": 1000,
+  "viewportWidth": 1280,
+  "projectId": "esumie"
+}
